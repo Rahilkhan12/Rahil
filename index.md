@@ -1,6 +1,6 @@
 ## Welcome Rahil World 
 
-Here is the place where you can get update of Technologies
+## Here is the place where you can get update of Technologies
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
